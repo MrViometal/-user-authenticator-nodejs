@@ -19,6 +19,7 @@
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
+    "@architect/sandbox": "^1.9.6",
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.3"
   }
